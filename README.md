@@ -32,7 +32,7 @@ Set up your HTML boilerplate and add an image tag to the body.
 
 <img width="1024" alt="Screenshot 2023-01-21 at 12 30 15 AM" src="https://user-images.githubusercontent.com/102549585/213845187-25790397-4d0d-4cb7-8224-cc2651badbb0.png">
 
-Go to a Wikipedia page for a company you know. Click on the download icon, and then View in Browser. Copy the link that comes up and insert it into the image tag.
+Go to a Wikipedia page for a company you know. Click on their logo, usually on the top right of the page. Click on the download icon, and then View in Browser. Copy the link that comes up and insert it into the image tag.
 
 <img width="1024" alt="Screenshot 2023-01-21 at 12 36 06 AM" src="https://user-images.githubusercontent.com/102549585/213845293-681bfa98-6d97-4f0a-a01b-c2c2da4918ba.png">
 
