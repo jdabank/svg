@@ -16,7 +16,9 @@ A raster image is just pixels at a fixed size. They are not very scalable and zo
 
 A vector image is numerical data drawn by your applications into fixed shapes that scale automatically. If you zoom in on a vector image it still looks sharp, and same if you zoom out.
 
-The vast majority of websites use vector graphics for their websites.
+The vast majority of websites use vector graphics for their websites. Some don't, like this website: https://chi-matic.com/
+
+Your application looks more professional with a scalable logo.
 
 ## Let's Check it Out!
 
