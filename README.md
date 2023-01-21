@@ -20,7 +20,7 @@ cd vector
 
 touch vector.html
 
-Set up your HTML boilerplate and add an <image> tag to the body.
+Set up your HTML boilerplate and add an image tag to the body.
 
 <img width="1024" alt="Screenshot 2023-01-21 at 12 30 15 AM" src="https://user-images.githubusercontent.com/102549585/213845187-25790397-4d0d-4cb7-8224-cc2651badbb0.png">
 
@@ -36,4 +36,18 @@ Note: 100vh means that it will take up 100% of the viewport.
 
 Now, constantly change the size of your browser window. What happens to the quality of the image?
 
-## Sources for SVG Files
+## Best Practice
+
+A lot of buttons on the web are not vector images, they're just text. Some common examples include:
+
+Hamburger Menu: ☰
+
+Airplane Mode: ✈
+
+Play Button: ▶
+
+Back Button: ↩
+
+The font may change how these are interpreted - it could come through as just a black graphic and it might also come through as an emoji. If you copy these here they will always copy to your clipboard as the former.
+
+Use text when it's available! Text is scalable. When you want a more complicated logo, you have to use a vector image.
