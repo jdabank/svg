@@ -51,3 +51,11 @@ Back Button: ↩
 The font may change how these are interpreted - it could come through as just a black graphic and it might also come through as an emoji. If you copy these here they will always copy to your clipboard as the former.
 
 Use text when it's available! Text is scalable. When you want a more complicated logo, you have to use a vector image.
+
+Vector:
+<img width="1024" alt="Screenshot 2023-01-21 at 12 38 38 AM" src="https://user-images.githubusercontent.com/102549585/213846302-f6541c37-8d52-46da-963a-e503fb9f33ca.svg">
+
+
+Raster:
+![text111](https://user-images.githubusercontent.com/102549585/213846273-efeb1f0b-2098-4b73-8e77-17406247b31a.png)
+
